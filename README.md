@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This adds a few nice packages and some basic folder configuration
+
+-node-sass
+-normalize.css
+-react-router-dom
+
+run yarn once it's cloned and have fun
+
+
 ## Available Scripts
 
 In the project directory, you can run:
