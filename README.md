@@ -6,6 +6,9 @@ This adds a few nice packages and some basic folder configuration
 -normalize.css
 -react-router-dom
 
+rm -rf .git (this will remove all git information)
+git init (initalize a clean git history)
+
 run yarn once it's cloned and have fun
 
 
